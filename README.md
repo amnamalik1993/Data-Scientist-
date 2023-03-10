@@ -11,6 +11,7 @@ How to predict sales for the future? Sales prediction — also commonly called s
 
 ### Data Source:
 The url for the data: https://drive.google.com/file/d/1syH81TVrbBsdymLT_jl2JIf6IjPXtSQw/view
+
 For this dataset, there were 8523 rows and 11 columns.
 
 
