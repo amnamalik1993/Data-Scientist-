@@ -92,4 +92,4 @@ Further modelling can also be performed like Random Forest that may show differe
 ### For further information
 
 
-For any additional questions, please contact **amna.malik10@hotmail.com**
+For any additional questions, please contact **amna.malik10@gmail.com**
