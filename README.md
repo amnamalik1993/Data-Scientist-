@@ -120,7 +120,7 @@ Contributing factors are:
 
 - Item_MRP
 - Item_Visibility
-- 
+
 Item_MRP is still a major factor in the sales prediction, but with Group 2 representing lower MRP, we can see more influence from the actual Item Type and Item Visibility.
 
 ### Models Evaluated & Results:
