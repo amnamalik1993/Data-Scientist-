@@ -15,7 +15,6 @@ The url for the data: https://drive.google.com/file/d/1syH81TVrbBsdymLT_jl2JIf6I
 For this dataset, there were 8523 rows and 11 columns.
 
 
-
 ## Data Preparation
 
 - The data was cleaned. Duplicates were removed. Missing values were imputed. 
