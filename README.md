@@ -87,7 +87,7 @@ Item_MRP is a strong factor pushing towards a higher sales prediction.
 
 Decreasing factors are: Item_Visibility, Item_Weight and Outlet_Size.
 
-<img width="628" alt="Screenshot 2023-06-12 004255" src="https://github.com/amnamalik1993/Sales-Prediction/assets/124516948/eca8711b-e48c-457e-9eec-bacc19db2749">
+<img width="737" alt="Group 1" src="https://github.com/amnamalik1993/Sales-Prediction/assets/124516948/fa52c471-1424-4907-bd8c-74f09e0aa409">
 
 It is evident from the LIME explanation above for Group 1, there are many factors pushing for a higher sales prediction:
 
@@ -112,7 +112,7 @@ Decreasing factors for Group 2 are as follows:
 - Item_Type_Dairy
 - Outlet_Size
 
-<img width="634" alt="Screenshot 2023-06-12 004918" src="https://github.com/amnamalik1993/Sales-Prediction/assets/124516948/a736a2c0-0ec7-4eed-b243-b0443d535291">
+<img width="753" alt="group 2" src="https://github.com/amnamalik1993/Sales-Prediction/assets/124516948/6d2a4c1d-15c9-44f4-8997-5cfe3c5fc315">
 
 Based on the LIME explanation above for Group 2, there are factors pushing for a higher sales prediction.
 
